@@ -15,15 +15,7 @@
 
 Product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. Developer of elegant user experiences and aficionado of cloud computing. Avid learner and active participant of the tech community as a speaker and mentor.
 
-## Resume
-
-<table>
-    <tr>
-        <td><a href="https://yvesgurcan.com/resume.docx">Microsoft Word Document</a></td>
-        <td><a href="https://yvesgurcan.com/resume.pdf">PDF</a></td>
-        <td><a href="https://stackoverflow.com/cv/yvesgurcan">HTML</a></td>
-    </tr>
-</table>
+Get my resume: [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), [HTML](https://stackoverflow.com/cv/yvesgurcan).
 
 ## Speaker
 
