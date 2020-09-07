@@ -36,9 +36,3 @@ Resume: [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](htt
 - November 8-10, 2019: [Eugene Food Startup Weekend](http://communities.techstars.com/usa/eugene/startup-weekend/14837)
 - October 21-25, 2019: [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
 - April 13, 2019: [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/)
-
-## Open source projects
-
-- [♟️ Chess Project](https://chessproject.yvesgurcan.com)
-- [🎹 Web MIDI Player](https://midi.yvesgurcan.com)
-- [🕹️ JavaScript Games](https://games.yvesgurcan.com)
