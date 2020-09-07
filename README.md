@@ -15,13 +15,13 @@
 
 ## Bonjour !
 
-Product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. Developer of elegant user experiences and aficionado of cloud computing. Avid learner and active participant of the tech community as a speaker and mentor.
+I'm a product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. I'm a developer of elegant user experiences and an aficionado of cloud computing. I'm an avid learner and active participant of the tech community as a speaker and mentor.
 
-Schedule a time to talk with Yves: https://calendly.com/yvesgurcan/chat
+Want to talk? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
 
-Resume: [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), [HTML](https://stackoverflow.com/cv/yvesgurcan).
+My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), an [HTML page](https://stackoverflow.com/cv/yvesgurcan).
 
-Wondering how to say my first name? It's pronounced just like *Eve*!
+Wondering how to say my first name? [It's pronounced just like *Eve*!](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html)
 
 ## Speaker
 
