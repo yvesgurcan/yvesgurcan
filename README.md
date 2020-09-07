@@ -13,12 +13,15 @@
     </tr>
 </table>
 
+## Who?
+
 Product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. Developer of elegant user experiences and aficionado of cloud computing. Avid learner and active participant of the tech community as a speaker and mentor.
 
 Schedule a time to talk with Yves: https://calendly.com/yvesgurcan/chat
 
 Resume: [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), [HTML](https://stackoverflow.com/cv/yvesgurcan).
 
+Wondering how to say my first name? It's pronounced just like *Eve*!
 
 ## Speaker
 
