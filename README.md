@@ -17,14 +17,13 @@
 
 I'm a product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. I'm a developer of elegant user experiences and an aficionado of cloud computing. I'm an avid learner and active participant of the tech community as a speaker and mentor.
 
-Want to talk? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
-
-My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
-
-Wondering how to say my first name? [It's pronounced just like *Eve*.](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html)
+- Want to talk? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
+- My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
+- Wondering how to say my first name? [It's pronounced just like *Eve*.](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html) I'll let you guess how to say my last name.
 
 ## Speaker
 
+- September 5, 2020: [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit))
 - May 19, 2020: [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam))
 - May 1, 2020: Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples))
 - February 18, 2020: [AWS CloudFormation: A Stack in the Sky](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/268360327/) ([slides](https://slides.com/yvesgurcan/cloudformation#/))
