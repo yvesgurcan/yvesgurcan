@@ -1,7 +1,5 @@
 ## Bonjour !
 
-[test](./fr)
-
 I'm a product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. I'm a developer of elegant user experiences and an aficionado of cloud computing. I'm also an avid learner and active participant of the tech community.
 
 - Want to chat? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
