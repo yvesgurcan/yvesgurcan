@@ -1,7 +1,4 @@
----
-lang: en
-permalink: /en
----
+
 
 <span id="flag">
 [![french](./assets/images/french-flag.png "Click here for French version.")](./fr)
