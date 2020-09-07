@@ -15,7 +15,11 @@
 
 Product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. Developer of elegant user experiences and aficionado of cloud computing. Avid learner and active participant of the tech community as a speaker and mentor.
 
-Yves' resume: [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), [HTML](https://stackoverflow.com/cv/yvesgurcan).
+Resume: [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), [HTML](https://stackoverflow.com/cv/yvesgurcan).
+
+## Schedule a time to talk with Yves
+
+https://calendly.com/yvesgurcan/chat
 
 ## Speaker
 
@@ -39,7 +43,3 @@ Yves' resume: [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PD
 - [♟️ Chess Project](https://chessproject.yvesgurcan.com)
 - [🎹 Web MIDI Player](https://midi.yvesgurcan.com)
 - [🕹️ JavaScript Games](https://games.yvesgurcan.com)
-
-## Schedule a time to talk
-
-https://calendly.com/yvesgurcan/chat
