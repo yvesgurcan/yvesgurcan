@@ -24,6 +24,8 @@ I'm a product-minded software engineer with a passion for developing bleeding ed
 - October 21-25, 2019: [Women In Tech Week](https://redefiningwomenintech.com/event/women-in-tech-week-oct-21-25)
 - April 13, 2019: [Workshop: API Discovery, Development, and Distribution](https://www.meetup.com/eugenewebdevs/events/260157602/)
 
+---
+
 <table>
     <tr>
         <td><a href="https://yvesgurcan.com">Website</a></td>
