@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td><a href="https://yvesgurcan.com">🏠 Website</a></td>
+        <td><a href="https://yvesgurcan.com">Website</a></td>
         <td><a href="https://linkedin.com/in/yvesgurcan">LinkedIn</a></td>
         <td><a href="https://gitlab.com/yvesgurcan">GitLab</a></td>
         <td><a href="https://stackoverflow.com/users/11439562/yves-gurcan">Stack Overflow</a></td>
