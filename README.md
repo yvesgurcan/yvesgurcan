@@ -19,7 +19,7 @@ I'm a product-minded software engineer with a passion for developing bleeding ed
 
 Want to talk? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
 
-My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), an [HTML page](https://stackoverflow.com/cv/yvesgurcan).
+My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
 
 Wondering how to say my first name? [It's pronounced just like *Eve*!](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html)
 
