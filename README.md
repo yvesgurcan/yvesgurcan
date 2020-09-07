@@ -36,7 +36,7 @@
 
 ## Open source projects
 
-- [♞ Chess Project](https://chessproject.yvesgurcan.com)
+- [♟️ Chess Project](https://chessproject.yvesgurcan.com)
 - [🎹 Web MIDI Player](https://midi.yvesgurcan.com)
 - [🕹️ JavaScript Games](https://games.yvesgurcan.com)
 
