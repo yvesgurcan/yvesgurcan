@@ -15,7 +15,7 @@
 
 ## Bonjour !
 
-I'm a product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. Developer of elegant user experiences and aficionado of cloud computing. Avid learner and active participant of the tech community as a speaker and mentor.
+Product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. Developer of elegant user experiences and aficionado of cloud computing. Avid learner and active participant of the tech community as a speaker and mentor.
 
 Schedule a time to talk with Yves: https://calendly.com/yvesgurcan/chat
 
