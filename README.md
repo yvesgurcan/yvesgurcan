@@ -2,9 +2,13 @@ Product-minded software engineer with a passion for developing bleeding edge web
 
 ## Resume
 
-- [Microsoft Word Document](https://yvesgurcan.com/resume.docx)
-- [PDF](https://yvesgurcan.com/resume.pdf)
-- [HTML](https://stackoverflow.com/cv/yvesgurcan)
+<table>
+    <tr>
+      <td><a href="https://yvesgurcan.com/resume.docx">Microsoft Word Document</a></td>
+      <td><a href="https://yvesgurcan.com/resume.pdf">PDF</a></td>
+      <td><a href="https://stackoverflow.com/cv/yvesgurcan">HTML</a></td>
+    </tr>
+</table>
 
 ## Online presence
 
