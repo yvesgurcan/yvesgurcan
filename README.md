@@ -2,7 +2,7 @@
 
 I'm a product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. I'm a developer of elegant user experiences and an aficionado of cloud computing. I'm also an avid learner and active participant of the tech community.
 
-- Want to talk? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
+- Want to chat? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
 - My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
 - Wondering how to say my first name? [It's pronounced just like *Eve*.](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html) I'll let you guess how to say my last name.
 
