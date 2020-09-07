@@ -1,27 +1,29 @@
+<table>
+    <tr>
+        <td><a href="https://yvesgurcan.com">🏠 Website</a></td>
+        <td><a href="https://linkedin.com/in/yvesgurcan">LinkedIn</a></td>
+        <td><a href="https://gitlab.com/yvesgurcan">GitLab</a></td>
+        <td><a href="https://stackoverflow.com/users/11439562/yves-gurcan">Stack Overflow</a></td>
+        <td><a href="https://www.npmjs.com/~yvesgurcan">NPM</a></td>
+        <td><a href="https://twitter.com/yvesgurcan">Twitter</a></td>
+        <td><a href="https://medium.com/@yvesgurcan">Medium</a></td>
+        <td><a href="https://dev.to/yvesgurcan">DEV</a></td>
+        <td><a href="https://www.twitch.tv/yvesgurcan/videos">Twitch</a></td>
+        <td><a href="https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos">YouTube</a></td>
+    </tr>
+</table>
+
 Product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. Developer of elegant user experiences and aficionado of cloud computing. Avid learner and active participant of the tech community as a speaker and mentor.
 
 ## Resume
 
 <table>
     <tr>
-      <td><a href="https://yvesgurcan.com/resume.docx">Microsoft Word Document</a></td>
-      <td><a href="https://yvesgurcan.com/resume.pdf">PDF</a></td>
-      <td><a href="https://stackoverflow.com/cv/yvesgurcan">HTML</a></td>
+        <td><a href="https://yvesgurcan.com/resume.docx">Microsoft Word Document</a></td>
+        <td><a href="https://yvesgurcan.com/resume.pdf">PDF</a></td>
+        <td><a href="https://stackoverflow.com/cv/yvesgurcan">HTML</a></td>
     </tr>
 </table>
-
-## Online presence
-
-- [LinkedIn](https://linkedin.com/in/yvesgurcan)
-- [GitLab](https://gitlab.com/yvesgurcan)
-- [Stack Overflow](https://stackoverflow.com/users/11439562/yves-gurcan)
-- [NPM](https://www.npmjs.com/~yvesgurcan)
-- [Twitter](https://twitter.com/yvesgurcan)
-- [Medium](https://medium.com/@yvesgurcan)
-- [DEV](https://dev.to/yvesgurcan)
-- [Twitch](https://www.twitch.tv/yvesgurcan/videos)
-- [YouTube](https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos)
-- [🏠 Website](https://yvesgurcan.com/)
 
 ## Speaker
 
