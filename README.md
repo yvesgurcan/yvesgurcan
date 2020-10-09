@@ -6,6 +6,10 @@ I'm a product-minded software engineer with a passion for developing bleeding ed
 - My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
 - Wondering how to say my first name? [It's pronounced just like *Eve*.](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html) I'll let you guess how to say my last name.
 
+## Organizer
+
+- [Tech Talks](http://meetu.ps/c/4Hh2t/yw9jN/d): An ongoing series of remote presentations supported by The Collab Lab. This bi-weekly meetup targets early-career developers.
+
 ## Speaker
 
 - September 5, 2020: [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit))
