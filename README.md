@@ -8,7 +8,7 @@ I'm a product-minded software engineer with a passion for developing bleeding ed
 
 ## Organizer
 
-- [Tech Talks](http://meetu.ps/c/4Hh2t/yw9jN/d): An ongoing series of remote presentations supported by The Collab Lab. This bi-weekly meetup targets early-career developers.
+- [Tech Talks](http://meetu.ps/c/4Hh2t/yw9jN/d): An ongoing series of remote presentations supported by [The Collab Lab](https://the-collab-lab.codes). This bi-weekly meetup targets early-career developers.
 
 ## Speaker
 
