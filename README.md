@@ -1,6 +1,6 @@
 ## Bonjour !
 
-I'm a product-minded software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. I'm a developer of elegant user experiences and an aficionado of cloud computing. I'm also an avid learner and active participant of the tech community.
+I'm a product-minded senior software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. I'm a developer of elegant user experiences and an aficionado of cloud computing. I'm also an avid learner and active participant of the tech community.
 
 - Want to chat? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
 - My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
