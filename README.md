@@ -1,17 +1,14 @@
 ## Bonjour !
 
-I'm a product-minded senior software engineer with a passion for developing bleeding edge web and mobile applications as well as event-driven architectures. I'm a developer of elegant user experiences and an aficionado of cloud computing. I'm also an avid learner and active participant of the tech community.
+I'm an aspiring manager with a knack for empathetic communication and emotional intelligence. I am passionate about supporting the success of my clients, teammates, and employer. Constantly looking for ways to do better and improve processes. I’ve been recognized by previous supervisors as a natural teacher and a skilled programmer. I strive to lead by example and follow the principles of positive leadership.
 
 - Want to chat? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
 - My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
 - Wondering how to say my first name? [It's pronounced just like *Eve*.](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html) I'll let you guess how to say my last name. 😉
 
-## Organizer
-
-- [Tech Talks](http://meetu.ps/c/4Hh2t/yw9jN/d): An ongoing series of remote presentations supported by [The Collab Lab](https://the-collab-lab.codes). This bi-weekly meetup targets early-career developers.
-
 ## Speaker
 
+- January 20, 2022: Polite pull requests: A guide to emotionally intelligent code reviews ([slides](https://slides.com/yvesgurcan/pr/))
 - September 5, 2020: [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit))
 - May 19, 2020: [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam))
 - May 1, 2020: Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples))
