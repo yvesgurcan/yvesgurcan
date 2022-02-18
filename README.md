@@ -3,7 +3,7 @@
 I'm an aspiring manager with a knack for empathetic communication and emotional intelligence. I am passionate about supporting the success of my clients, teammates, and employer. Constantly looking for ways to do better and improve processes. I’ve been recognized by previous supervisors as a natural teacher and a skilled programmer. I strive to lead by example and follow the principles of positive leadership.
 
 - Want to chat? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
-- My resume is available as a [Microsoft Word Document](https://yvesgurcan.com/resume.docx), [PDF](https://yvesgurcan.com/resume.pdf), and [HTML page](https://stackoverflow.com/cv/yvesgurcan).
+- My resume is available as a [PDF](https://yvesgurcan.com/resume.pdf).
 - Wondering how to say my first name? [It's pronounced just like *Eve*.](http://www.allocine.fr/video/player_gen_cmedia=19582849&cfilm=263740.html) I'll let you guess how to say my last name. 😉
 
 ## Speaker
