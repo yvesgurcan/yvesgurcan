@@ -1,6 +1,6 @@
 ## Bonjour !
 
-I'm an aspiring manager with a knack for empathetic communication and emotional intelligence. I am passionate about supporting the success of my clients, teammates, and employer. Constantly looking for ways to do better and improve processes. I’ve been recognized by previous supervisors as a natural teacher and a skilled programmer. I strive to lead by example and follow the principles of positive leadership.
+I'm an engineering manager with a knack for empathetic communication and emotional intelligence. I am passionate about supporting the success of my clients, teammates, and employer. Constantly looking for ways to do better and improve processes. I’ve been recognized by previous supervisors as a natural teacher and a skilled programmer. I strive to lead by example and follow the principles of positive leadership.
 
 - Want to chat? Schedule a call with me on [Calendly](https://calendly.com/yvesgurcan/chat).
 - My resume is available as a [PDF](https://yvesgurcan.com/resume.pdf).
