@@ -38,7 +38,6 @@ I'm an engineering manager with a knack for empathetic communication and emotion
         <td><a href="https://twitter.com/yvesgurcan">Twitter</a></td>
         <td><a href="https://medium.com/@yvesgurcan">Medium</a></td>
         <td><a href="https://dev.to/yvesgurcan">DEV</a></td>
-        <td><a href="https://www.twitch.tv/yvesgurcan/videos">Twitch</a></td>
         <td><a href="https://www.youtube.com/channel/UCmNgbt5GFQfdwPOKaJ-NHYw/videos">YouTube</a></td>
     </tr>
 </table>
