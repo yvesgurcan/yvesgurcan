@@ -8,7 +8,7 @@ I'm an engineering manager with a knack for empathetic communication and emotion
 
 ## Speaker
 
-- January 11, 2023: [Enhancing developer efficiency with ChatGPT (with Ashwin Sundar)](https://www.youtube.com/watch?v=w2nqCYvcBq0&t=150).
+- January 11, 2023: [Enhancing developer efficiency with ChatGPT (with Ashwin Sundar)](https://www.youtube.com/watch?v=w2nqCYvcBq0&t=150)
 - November 16, 2022: [The T3 stack (with Nic Ford)](https://www.youtube.com/watch?v=eFJx7LdM7dg&t=456)
 - November 10, 2022: [High-level estimates (with Leia Pitcher and Tanner Juby)](https://www.youtube.com/watch?v=I6ylMsBHWH8&t=74)
 - January 20, 2022: [Polite pull requests: A guide to emotionally intelligent code reviews](https://youtube.com/watch?v=PY-r2T_tTXI?t=400) ([slides](https://slides.com/yvesgurcan/pr/))
