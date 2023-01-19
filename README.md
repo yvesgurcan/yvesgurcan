@@ -8,7 +8,9 @@ I'm an engineering manager with a knack for empathetic communication and emotion
 
 ## Speaker
 
-- January 20, 2022: Polite pull requests: A guide to emotionally intelligent code reviews ([slides](https://slides.com/yvesgurcan/pr/))
+- January 11, 2023: [Enhancing developer efficiency with ChatGPT (with Ashwin Sundar)](https://www.youtube.com/watch?v=w2nqCYvcBq0&t=150).
+- November 16, 2022: [The T3 stack (with Nic Ford)](https://www.youtube.com/watch?v=eFJx7LdM7dg&t=456)
+- January 20, 2022: [Polite pull requests: A guide to emotionally intelligent code reviews](https://youtube.com/watch?v=PY-r2T_tTXI?t=400) ([slides](https://slides.com/yvesgurcan/pr/))
 - September 5, 2020: [Communication as a developer](https://www.youtube.com/watch?v=JvEyHokLnak) ([slides](https://docs.google.com/presentation/d/14kJTPHCVHsEmzqOLTqKCgL3QrwR7_BnIpN9oGJraT4c/edit))
 - May 19, 2020: [AWS Serverless Applications: Blue-Green Deployments and AWS SAM](https://www.meetup.com/Portland-Serverless-Architecture-Meetup/events/270451639/) ([slides](https://slides.com/yvesgurcan/aws-sam))
 - May 1, 2020: Introduction to WebSockets ([repository](https://github.com/yvesgurcan/websocket-examples))
